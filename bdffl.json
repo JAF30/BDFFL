@@ -1,0 +1,10 @@
+{
+  "name": "BDFFL Coin",
+  "symbol": "BDFFL",
+  "description": "Fantasy Football league token for BDFFL.",
+  "image": "https://raw.githubusercontent.com/JAF30/BDFFL/refs/heads/main/bdffl.png",
+  "external_url": "https://github.com/JAF30/BDFFL",
+  "attributes": [
+    {"trait_type": "Season", "value": "2025"}
+  ]
+}
